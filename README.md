@@ -22,5 +22,5 @@ The goal was to predict the median housing price (`medv`) based on socioeconomic
 * **Conclusion**: For this specific dataset, classical linear regression proved more accurate, although PCR remains a valuable tool for datasets with higher collinearity.
 
 ### Files
-* `zapoctovy_ukol_1.R`: Full R source code for analysis and visualization.
-* `zapoctova_uloha_Sustrova.pdf`: Detailed final report (in Czech).
+* `multivariate_data_analysis.R`: Full R source code for analysis and visualization.
+* `multivariate_data_analysis.pdf`: Detailed final report (in Czech).
